@@ -1,20 +1,20 @@
 {
   "name": "my-gulp-project",
   "version": "1.0.0",
-  "description": "gulp入门",
+  "description": "gulp 入门",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/nianzhilian/my-gulp-project.git"
+    "url": "git+https://github.com/nianzhilian/my-gulp-project.git"
   },
   "keywords": [
     "gulp"
   ],
   "author": "nianzhilian",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/nianzhilian/my-gulp-project/issues"
   },
